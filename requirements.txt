@@ -1,5 +1,5 @@
 streamlit
 pandas
 plotly
-psycopg
+psycopg[binary]
 requests
